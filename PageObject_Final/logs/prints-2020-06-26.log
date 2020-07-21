@@ -1,0 +1,8 @@
+00:21:11.816 [main] INFO  org.testng.annotations.Test - test
+00:21:19.707 [main] INFO  org.testng.annotations.Test - driver initialse
+00:21:24.736 [main] INFO  org.testng.annotations.Test - url is open
+00:21:24.791 [main] INFO  org.testng.annotations.Test - title verified
+23:29:01.560 [main] INFO  org.testng.annotations.Test - test
+23:30:33.027 [main] INFO  org.testng.annotations.Test - test
+23:33:52.778 [main] INFO  org.testng.annotations.Test - test
+23:38:42.389 [main] INFO  org.testng.annotations.Test - test

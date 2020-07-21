@@ -1,0 +1,4 @@
+pageObjects\LoginLandingPage.class
+pageObjects\LoginPage.class
+resources\Base.class
+Tests\App.class

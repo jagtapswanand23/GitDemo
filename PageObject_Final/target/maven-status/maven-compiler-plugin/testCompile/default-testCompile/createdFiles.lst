@@ -1,0 +1,4 @@
+Tests\ValidateTitleOfHomePage.class
+Tests\validateNavigationBar.class
+Tests\HomePageTest.class
+Tests\AppTest.class

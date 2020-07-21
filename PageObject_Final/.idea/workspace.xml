@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51c135d9-ba42-4ec4-9ad0-eaf24952dcce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d5naEi1OOxHrSLxlqU92CA6Gq6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\PageObject_Final" />
+      <recent name="H:\PageObject_Final\src\main\java\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Academy" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\" />
+      <recent name="H:\PageObject_Final\src\main\java\resources" />
+      <recent name="H:\PageObject_Final\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.ValidateTitleOfHomePage">
+    <configuration name="H:/PageObject_Final/TestNGRunner.xml (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageOject_Final" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNGRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="H:/PageObject_Final/TestNGRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageObject_Final" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNGRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageObject_Final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Academy" />
+      <option name="MAIN_CLASS_NAME" value="Tests.HomePageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.test_homepage (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageOject_Final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.HomePageTest" />
+      <option name="METHOD_NAME" value="test_homepage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateTitleOfHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageOject_Final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.ValidateTitleOfHomePage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ValidateTitleOfHomePage" />
+        <item itemvalue="TestNG.HomePageTest.test_homepage (1)" />
+        <item itemvalue="TestNG.H:/PageObject_Final/TestNGRunner.xml (1)" />
+        <item itemvalue="TestNG.H:/PageObject_Final/TestNGRunner.xml" />
+        <item itemvalue="TestNG.HomePageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51c135d9-ba42-4ec4-9ad0-eaf24952dcce" name="Default Changelist" comment="" />
+      <created>1591723882980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591723882980</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="365" y="44" key="#All_in_PageObject_Final" timestamp="1592669941169">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="365" y="44" key="#All_in_PageObject_Final/0.0.1536.824@0.0.1536.824" timestamp="1592669941169" />
+    <state x="499" y="168" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1591812349033">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="168" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1591812349033" />
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1592932984614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592932984614" />
+    <state x="93" y="93" width="1350" height="638" maximized="true" key="DiffContextDialog" timestamp="1592749375512">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" maximized="true" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1592749375512" />
+    <state width="1493" height="304" key="GridCell.Tab.0.bottom" timestamp="1593370935675">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="304" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593370935675" />
+    <state width="1493" height="304" key="GridCell.Tab.0.center" timestamp="1593370935675">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="304" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593370935675" />
+    <state width="1493" height="304" key="GridCell.Tab.0.left" timestamp="1593370935674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="304" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593370935674" />
+    <state width="1493" height="304" key="GridCell.Tab.0.right" timestamp="1593370935675">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="304" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593370935675" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1593196407271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593196407271" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1593196407271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593196407271" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1593196407271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593196407271" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1593196407271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593196407271" />
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog" timestamp="1593018852294">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1593018852294" />
+    <state x="209" y="109" key="new project wizard" timestamp="1592670683617">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="109" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1592670683617" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1593024703271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1593024703271" />
+    <state x="491" y="325" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1592845571589">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="325" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1592845571589" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/pageObjects/LoginPage.java</url>
+          <line>15</line>
+          <properties field="username" class="pageObjects.LoginPage" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PageObject_Final$_default_.ic" NAME="&lt;default&gt; Coverage Results" MODIFIED="1592670269523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
